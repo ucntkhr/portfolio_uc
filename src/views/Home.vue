@@ -1,14 +1,14 @@
 <template>
 
   <div class="home">
-    <section class="hero is-dark is-bold is-medium">
+    <section class="protagonist hero is-bold is-medium">
       <div class="hero-body">
         <div class="container has-text-centered">
-          <h1 class="title">
+          <h1 class="words title is-light">
             【 <span class="fas fa-rocket"></span> Under Construction Hero <span class="fas fa-robot"></span> 】
           </h1>
-          <p class="subtitle">
-            ucntkhr's Portfolio <strong>(with Bulma)</strong>
+          <p class="words subtitle">
+            ucntkhr's Portfolio (with Bulma)
           </p>
         </div>
       </div> 
@@ -46,3 +46,16 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+
+  .protagonist {
+    box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    background: linear-gradient(to bottom, #F3F3F5, #E90B8B, #352384, #333447);
+  }
+
+  .words {
+    color: #F3F3F5
+  }
+
+</style>
