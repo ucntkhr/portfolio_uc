@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" buffered-rendering="static" width="256px" height="256px" viewBox="0,0,256,256">
+<desc>
+This file was created by http://www.h2.dion.ne.jp/~defghi/img2svg3/dot2svg3.htm at Fri Jan 22 2021 11:34:26 GMT+0900 (日本標準時)
+path count:9
+</desc>
+<defs>
+<g id="dots">
+<path d="m0,0h256v256h-256zm17,16h-1v224h224v-224z" fill="#2f5f82"/>
+<path d="m16,16h224v224h-224zm89,8h-1v8h-16v8h-8v8h-8v8h-8v8h-8v8h-8v16h-8v48h8v8h8v8h8v8h8v-8h8v-8h24v8h-8v8h-8v8h-8v8h-8v16h16v16h8v8h8v16h16v-16h8v-8h16v24h16v-16h8v-8h8v-16h16v-16h-8v-8h-8v-16h-8v-8h16v8h8v8h8v-8h8v-16h8v-64h-8v-8h-8v-16h-8v-8h-16v-8h-16v-8z" fill="#fff"/>
+<path d="m104,24h56v8h16v8h16v8h8v16h8v8h8v8h-8v-8h-16v-16h-16v-8h-8v-8h-8v-8h-48v8h-8v8h-16v8h-16v8h-8v8h-8v16h-8v48h8v8h8v8h8v8h-8v-8h-8v-8h-8v-8h-8v-48h8v-16h8v-8h8v-8h8v-8h8v-8h8v-8h16zm0,48h16v8h-8v8h-8v16h-8v8h-8v16h8v8h8v8h8v8h-8v16h-8v8h-16v8h-8v-8h8v-8h8v-8h8v-8h8v-8h-16v-8h-8v-16h-8v8h-8v-8h8v-8h8v-16h8v-8h8v-8h8zm32,0h8v24h8v-8h8v-16h8v8h8v8h8v8h8v8h8v24h-8v8h-8v8h-8v-8h8v-8h8v-24h-8v-8h-8v8h-8v-16h-8v8h-8v8h-16v-8h-8v8h-16v-8h16v-8h8zm24,72h8v8h8v16h-8v-8h-8zm40,0h8v8h-8v8h-8v-8h8zm-112,48h8v16h8v8h-8v-8h-8zm80,0h8v16h-8v8h-8v-16h8zm-40,8h8v8h-8v8h-8v-8h8z"/>
+<path d="m112,32h48v8h8v8h8v8h16v16h16v8h8v56h-8v8h-8v8h-16v-16h8v-8h8v-24h-8v-8h-8v-8h-8v-8h-8v-8h-8v16h-8v8h-8v-24h-8v16h-8v8h-16v8h-8v-16h8v-8h8v-8h-16v8h-8v8h-8v8h-8v16h-8v8h8v16h8v8h-8v8h-16v-8h-8v-8h-8v-48h8v-16h8v-8h8v-8h16v-8h16v-8h8zm-47,88h-1v8h8v-8z" fill="#313b38"/>
+<path d="m160,88h8v16h8v-8h8v8h8v24h-8v8h-8v8h-16v8h-40v-8h-16v-8h-8v-8h-8v-16h8v-8h32v-8h8v8h16v-8h8zm-47,24h-1v8h24v-8zm48,0h-1v8h24v-8zm-89,72h16v8h-16zm104,0h16v8h-16zm-72,24h16v8h-16zm40,0h16v8h-16z" fill="#eec39a"/>
+<path d="m112,112h24v8h-24zm48,0h24v8h-24z" fill="#44273b"/>
+<path d="m112,144h8v8h40v8h8v8h16v8h8v8h-112v-8h16v-8h8v-16h8z" fill="#ac3131"/>
+<path d="m88,184h88v8h-8v8h-8v8h-24v-8h-8v8h-32v-16h-8z" fill="#5a6de1"/>
+<path d="m104,216h16v16h-16zm40,0h16v16h-16z" fill="#653830"/>
+</g>
+</defs>
+<use xlink:href="#dots"/>
+</svg>

@@ -40,6 +40,7 @@
           <div class="card is-shady">
 
             <div class="card-image has-text-centered">
+              <SVGElement name="NEKO"/>
               <i class="fa fa-paw"></i>
             </div>
 
@@ -275,11 +276,13 @@
 <script>
 // @ is an alias to /src
 import HelloWorld from '@/components/HelloWorld.vue'
+import SVGElement from "@/components/SVGElement.vue"
 
 export default {
   name: 'Home',
   components: {
-    HelloWorld
+    HelloWorld,
+    SVGElement
   }
 }
 </script>

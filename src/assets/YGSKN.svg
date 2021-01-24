@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" buffered-rendering="static" width="256px" height="256px" viewBox="0,0,256,256">
+<desc>
+This file was created by http://www.h2.dion.ne.jp/~defghi/img2svg3/dot2svg3.htm at Fri Jan 22 2021 11:32:19 GMT+0900 (日本標準時)
+path count:10
+</desc>
+<defs>
+<g id="dots">
+<path d="m0,0h256v256h-256zm17,16h-1v224h224v-224z" fill="#a00"/>
+<path d="m16,16h224v224h-24v-32h-8v-8h-8v-8h8v-16h8v-16h8v-8h8v-8h-8v-8h-16v-16h8v-16h8v-32h-8v-16h-16v-8h-16v-8h-32v8h-8v8h-24v-8h-8v-8h-8v-8h-32v8h-8v24h8v24h8v-8h16v-8h8v-8h16v8h32v16h8v8h8v8h8v8h8v16h-8v-8h-16v8h-8v16h-8v32h16v16h16v8h8v8h8v8h8v24h-144v-24h8v-8h8v-16h16v-8h8v-24h8v-8h-24v8h-8v8h-24v-8h-8v-8h-8v-8h16v-8h-8v-8h-8v8h-8v24h8v8h8v8h-8v8h8v8h8v8h8v8h-8v8h-8v24h-24zm49,72h-1v8h-8v8h-8v8h-8v16h8v-8h8v-8h8v-8h8v-16zm40,16h-1v8h32v-8zm-56,24h-1v8h8v-8z" fill="#fff"/>
+<path d="m72,32h32v8h8v8h8v8h24v-8h8v-8h32v8h16v8h16v16h8v32h-8v16h-8v16h16v8h8v8h-8v8h-8v16h-8v16h-8v8h8v8h8v32h-8v-32h-8v-8h-8v-16h-8v-8h8v8h8v-8h8v-8h-8v-8h-8v-8h-8v-8h8v8h8v8h16v-8h8v-8h-16v-8h-8v-16h8v-16h8v-24h-8v-16h-8v-8h-16v-8h-24v8h-16v8h-8v8h-16v-8h-16v8h-8v8h-8v-8h8v-16h16v-8h-8v-8h-32v24h-8v-24h8zm0,40h8v16h-8v16h-8v8h-8v8h-8v8h-8v16h-8v8h8v8h8v8h24v-8h8v-8h24v8h-8v24h-8v8h-16v-8h8v-8h-40v8h8v8h16v8h8v8h-8v8h-8v24h-8v-32h8v-8h-8v-8h-8v-8h-8v-8h8v-8h-8v-8h-8v-24h8v-8h8v-16h8v-8h8v-8h8v-8h8zm96,8h8v8h8v8h8v16h-8v-16h-8v-8h-8zm-64,24h32v8h-32zm56,16h16v8h-16zm-16,40h8v8h8v8h8v8h8v8h8v8h-8v-8h-16v-16h-16zm32,0h8v8h-8zm-95,8h-1v8h8v-8z"/>
+<path d="m72,40h32v8h8v8h-16v-8h-24zm88,8h24v8h16v8h8v16h8v24h-16v8h8v8h-8v8h-16v-16h8v-16h-8v-8h-8v-8h-24v-8h8v-8h-16v8h-8v-8h8v-8h16zm17,8h-1v16h8v-16zm-105,0h8v8h-8zm121,16h-1v8h8v-8zm8,8h-1v8h8v-8z" fill="#500"/>
+<path d="m72,48h24v24h-8v8h-8v-8h-8v-8h8v-8h-8zm104,8h8v16h-8zm-32,8h16v8h-16zm48,8h8v8h8v8h-8v-8h-8zm8,32h8v8h-8z" fill="#a50"/>
+<path d="m152,80h16v8h8v8h8v16h-8v-8h-8v-8h-8v-8h-8zm-104,48h8v8h-8v8h-8v-8h8zm136,72h16v8h8v32h-8v-24h-8v-8h-8zm-144,16h8v24h-8z" fill="#555"/>
+<path d="m152,128h8v8h-8zm16,8h8v8h-8zm-16,8h8v8h16v16h-8v-8h-8v-8h-8z" fill="#5ff"/>
+<path d="m160,128h24v8h8v8h16v8h-16v8h8v8h-16v16h-8v-8h-8v-8h-8v-8h8v8h16v-8h-8v-8h-16v-8h-8v8h-8v-8h8v-8h8zm9,8h-1v8h8v-8zm16,8h-1v8h8v-8zm-105,24h8v8h-8v8h-8v16h-8v-8h-8v-16h8v8h8v-8h8zm-40,8h8v8h-8z" fill="#55f"/>
+<path d="m184,128h16v8h8v8h16v8h-8v8h-16v-8h8v-8h-16v-8h-8zm-40,24h16v16h8v8h8v8h16v-8h-8v-8h24v8h-8v8h-8v16h-8v-8h-8v-8h-8v-8h-8v-8h-8v-8h-8z" fill="#05a"/>
+<path d="m48,176h8v16h-8zm16,0h8v8h-8z" fill="#5af"/>
+</g>
+</defs>
+<use xlink:href="#dots"/>
+</svg>
