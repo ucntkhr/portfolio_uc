@@ -42,7 +42,9 @@
             <div class="card-image has-text-centered">
 
               <a href="#">
-                <NEKO />NEKO
+<!--                 <NEKO /> -->
+<!--                 <PNGElement name="NEKO" /> -->
+                NEKO
               </a>
 
               <i class="fa fa-paw"></i>
@@ -63,7 +65,13 @@
           <div class="card is-shady">
 
             <div class="card-image has-text-centered">
-              <YGSKN />
+
+              <a href="#">
+<!--                 <YGSKN /> -->
+<!--                 <PNGElement name="YGSKN" /> -->                
+                YGSKN 
+              </a>
+
               <i class="fa fa-empire"></i>
             </div>
 
@@ -83,7 +91,13 @@
           <div class="card is-shady">
 
             <div class="card-image has-text-centered">
-              <HUMAN />
+
+              <a href="#">
+<!--                 <HUMAN /> -->
+<!--                 <PNGElement name="HUMAN" /> -->
+                HUMAN 
+              </a>
+
               <i class="fa fa-apple"></i>
             </div>
 
@@ -281,18 +295,38 @@
 
 <script>
 // @ is an alias to /src
+
 import HelloWorld from '@/components/HelloWorld.vue'
-import HUMAN from '@/assets/HUMAN.svg';
-import NEKO from '@/assets/NEKO.svg';
-import YGSKN from '@/assets/YGSKN.svg';
+
+/*
+import HUMAN from '@/assets/HUMAN.png';
+import NEKO from '@/assets/NEKO.png';
+import YGSKN from '@/assets/YGSKN.png';
+*/
+
+//import PNGElement from '@/components/PNGElement.vue'
+
+  /* 
+    import HUMAN from '@/assets/HUMAN.svg';
+    import NEKO from '@/assets/NEKO.svg';
+    import YGSKN from '@/assets/YGSKN.svg';
+  */
+
 
 export default {
   name: 'Home',
   components: {
     HelloWorld,
-    HUMAN,
-    NEKO,
-    YGSKN,
+
+
+    //PNGElement
+   
+    /*     
+      HUMAN,
+      NEKO,
+      YGSKN,
+    */
+
   }
 }
 </script>
