@@ -29,8 +29,8 @@
       </div>
     </section>
 
-    <section class="container m-5"> 
-      <h1> SPACE LITTLE SPACE </h1>
+    <section class="container m-5 has-text-centered"> 
+      <h1>＊SPACE LITTLE SPACE＊</h1>
     </section>
 
 
@@ -40,7 +40,9 @@
           <div class="card is-shady">
 
             <div class="card-image has-text-centered">
-
+              <img src="@/assets/NEKO.png">
+              <br>
+              <i class="fa fa-paw"></i>
               <a href="#">
 <!--                 <NEKO /> -->
 <!--                 <PNGElement name="NEKO" /> -->
@@ -65,7 +67,9 @@
           <div class="card is-shady">
 
             <div class="card-image has-text-centered">
-
+              <img src="@/assets/YGSKN.png">
+              <br>
+              <i class="fa fa-empire"></i>
               <a href="#">
 <!--                 <YGSKN /> -->
 <!--                 <PNGElement name="YGSKN" /> -->                
@@ -91,7 +95,9 @@
           <div class="card is-shady">
 
             <div class="card-image has-text-centered">
-
+              <img src="@/assets/HUMAN.png">
+              <br>
+              <i class="fa fa-apple"></i>
               <a href="#">
 <!--                 <HUMAN /> -->
 <!--                 <PNGElement name="HUMAN" /> -->
