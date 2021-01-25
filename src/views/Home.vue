@@ -40,6 +40,11 @@
           <div class="card is-shady">
 
             <div class="card-image has-text-centered">
+
+              <a href="#">
+                <NEKO />NEKO
+              </a>
+
               <i class="fa fa-paw"></i>
             </div>
 
@@ -58,6 +63,7 @@
           <div class="card is-shady">
 
             <div class="card-image has-text-centered">
+              <YGSKN />
               <i class="fa fa-empire"></i>
             </div>
 
@@ -77,6 +83,7 @@
           <div class="card is-shady">
 
             <div class="card-image has-text-centered">
+              <HUMAN />
               <i class="fa fa-apple"></i>
             </div>
 
@@ -275,13 +282,17 @@
 <script>
 // @ is an alias to /src
 import HelloWorld from '@/components/HelloWorld.vue'
-//import SVGElement from "@/components/SVGElement.vue"
+import HUMAN from '@/assets/HUMAN.svg';
+import NEKO from '@/assets/NEKO.svg';
+import YGSKN from '@/assets/YGSKN.svg';
 
 export default {
   name: 'Home',
   components: {
     HelloWorld,
-    //SVGElement
+    HUMAN,
+    NEKO,
+    YGSKN,
   }
 }
 </script>
