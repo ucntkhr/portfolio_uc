@@ -29,6 +29,23 @@
       </div>
     </section>
 
+  <!-- 
+    <section class="sans-river hero is-bold is-medium">
+      <div class="hero-body">
+        <div class="container has-text-centered">
+          <h1 class="words hell-words title is-light">
+            【 <span class="fas fa-skull"></span> ーーーーー Sans River ーーーーー <span class="fas fa-burn"></span> 】
+          </h1>
+          <p class="hell-words subtitle">
+            "SHOULD BE BURNING IN HELL."
+          </p>
+
+        </div>
+      </div> 
+
+    </section>
+   -->
+
     <Profile id="Profile" />
 
     <section class="container">
@@ -261,6 +278,15 @@ export default {
   }
 
   .words {
+    color: #F3F3F5
+  }
+
+  .sans-river {
+    background: linear-gradient(-120DEG, #D62121, #C72C2C, #3A1111)
+  }
+
+  .hell-words {
+    font-family:'Comic Sans MS';
     color: #F3F3F5
   }
 
