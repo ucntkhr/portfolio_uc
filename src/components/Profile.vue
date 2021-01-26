@@ -122,7 +122,7 @@
 						<div class="content">
 							<h4>unomicha1（ゆのみ）</h4>
 							<p>もう一つの夢：インディーゲームクリエイターになることを目指している逸脱人。目標は人々の記憶に残るタイトル/作品をリリースし、多くの心を揺り動かすこと。開発環境はWin及びMac。使用エンジンは主にUnity、その他にGameMaker Studio 2、Godot Engine、Pixel GameMaker MVなど。
-							2D(pixel Art)のゲームスタイルを特に好む。せめてドット絵ぐらいは自分の手で描けるようになるべく修行中。</p>
+							2D (pixel Art) のスタイルを特に好む。せめてドット絵ぐらいは自分の手で描けるようになるべく修行中。</p>
 
 							<p class="is-align-center">
 								<a href="https://twitter.com/unomicha1">

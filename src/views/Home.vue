@@ -18,9 +18,9 @@
             <div class="column is-12 hero-menu-desktop has-text-centered">
               <ul>
                 <li><a href="#home">Home</a></li> 
-                <li><a href="#profile">Profile</a></li> 
-                <li><a href="#skill">Skill</a></li> 
-                <li><a href="#work">Work</a></li> 
+                <li><a href="#profile">Profiles</a></li> 
+                <li><a href="#skill">Skillset</a></li> 
+                <li><a href="#project">Projects</a></li> 
                 <li><a href="#contact">Contact</a></li>
               </ul>
             </div>
