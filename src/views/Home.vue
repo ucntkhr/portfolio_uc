@@ -8,7 +8,7 @@
             【 <span class="fas fa-rocket"></span> Under Construction Heroes <span class="fas fa-robot"></span> 】
           </h1>
           <p class="words subtitle">
-            ucntkhr's Portfolio (with Bulma)
+            ucntkhr's Portfolio (Made with Bulma)
           </p>
         </div>
       </div> 
@@ -67,16 +67,30 @@
     </section>
 
     <Appendix />
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+
+    <section class="container">
+      <div class="column m-5 invisible">
+        <p>【＊SPACE, SPACER NEVER CHANGES＊】</p>
+      </div>
+    </section>
+
+
+    <footer class="footer has-background-grey-darker">
+      <div class="content has-text-centered">
+        <p class="has-text-grey-lighter">Copyright © 2021 ucntkhr All Rights Reserved.</p>
+        <a class="icon has-text-grey-lighter" target="”_blank”" href="https://github.com/ucntkhr/portfolio_uc">
+          <i class="fab fa-github fa-2x"></i>
+        </a>
+      </div>
+    </footer>
 
   </div>
+
 </template>
 
 <script>
 // @ is an alias to /src
 
-import HelloWorld from '@/components/HelloWorld.vue';
 import Profiles from '@/components/Profile.vue';
 import Appendix from '@/components/Appendix.vue';
 import Projects from '@/components/Project.vue';
@@ -101,7 +115,6 @@ import YGSKN from '@/assets/YGSKN.png';
 export default {
   name: 'Home',
   components: {
-    HelloWorld,
     Profiles,
     Appendix,
     Projects,

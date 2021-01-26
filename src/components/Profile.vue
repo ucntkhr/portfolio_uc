@@ -77,7 +77,7 @@
 					<div class="card-content">
 						<div class="content">
 							<h4>ヤギナサカ【山羊魚マン】</h4>
-							<p>（※現在準備中：2021年2〜3月配信活動開始予定）<br>ゲーム実況者・怪人系バーチャルゲーマー。山羊的な容貌を備えているが実体は魚のキメラ。ゲームの腕前は割と『雑魚』レベル。AfterEffect・Premiere Pro等を駆使し、丁寧な作りの動画コンテンツ制作及び配信に努めていくことを計画中。好みのゲームジャンルは雑食系。使用コンソール：PC(Windows)/Nintendo Switch/Playstation 3/Retrofreak</p>
+							<p>（※現在準備中：2021年2〜3月配信活動開始予定）<br>ゲーム実況者・怪人系バーチャルゲーマー。山羊的な容貌を備えているが実体は魚のキメラ。ゲームの腕前は割と『雑魚』レベル。AfterEffect・Premiere Pro等を駆使し、丁寧な作りの動画コンテンツ制作及び配信に努めていく計画を構想中。好みのゲームジャンルは雑食系。使用コンソール：PC(Windows)/Nintendo Switch/Playstation 3/Retrofreak</p>
 							
 							<p class="is-align-center">
 								<a href="#">
