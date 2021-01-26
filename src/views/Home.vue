@@ -8,7 +8,7 @@
             【 <span class="fas fa-rocket"></span> Under Construction Heroes <span class="fas fa-robot"></span> 】
           </h1>
           <p class="words subtitle">
-            ucntkhr's Portfolio (Made with Bulma)
+            ucntkhr's Portfolio ( Made with Vue.js / Bulma )
           </p>
         </div>
       </div> 
