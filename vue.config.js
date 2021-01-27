@@ -1,2 +1,3 @@
-//hoge
-
+module.exports = {
+  outputDir: './docs',
+}
