@@ -30,7 +30,9 @@
     </section>
 
     <!-- 
+
     <section class="sans-river hero is-bold is-medium">
+
       <div class="hero-body">
         <div class="container has-text-centered">
           <h1 class="words hell-words title is-light">
@@ -43,7 +45,8 @@
         </div>
       </div> 
 
-    </section>
+    </section>  
+
     -->
 
     <Profiles id="Profile" />

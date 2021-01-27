@@ -5,6 +5,7 @@ import Profile from '@/components/Profile.vue'
 import Skillset from '@/components/Skillset.vue'
 import Project from '@/components/Project.vue'
 import Contact from '@/components/Contact.vue'
+import Frisk from '@/components/Frisk.vue'
 
 Vue.use(VueRouter)
 
@@ -37,7 +38,13 @@ const routes = [
     path: '/contact',
     name: 'Contact',
     component: Contact
-  }
+  },
+
+  {
+    path: '/frisk',
+    name: 'Frisk',
+    component: Frisk
+  },
 
 ]
 
