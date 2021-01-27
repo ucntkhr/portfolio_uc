@@ -49,7 +49,7 @@
     <Profiles id="Profile" />
 
     <section class="container">
-      <div class="column m-5 invisible">
+      <div class="column m-5 cheep-invisi">
         <p>【＊MY NAME IS SPACE LITTLE SPACER＊】</p>
       </div>
     </section>
@@ -61,7 +61,7 @@
     <Contact />
 
     <section class="container">
-      <div class="column m-5 invisible">
+      <div class="column m-5 cheep-invisi">
         <p>【＊SPACE LITTLE SPACER CAME BACK＊】</p>
       </div>
     </section>
@@ -69,7 +69,7 @@
     <Appendix />
 
     <section class="container">
-      <div class="column m-5 invisible">
+      <div class="column m-5 cheep-invisi">
         <p>【＊SPACE, SPACER NEVER CHANGES＊】</p>
       </div>
     </section>
@@ -154,7 +154,7 @@ export default {
     color: #F3F3F5
   }
 
-  .invisible {
+  .cheep-invisi {
     color: #FFFFFF
   }
 
