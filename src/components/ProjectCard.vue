@@ -92,9 +92,9 @@
 
     data(){
       return {
-        imgPath: require('@/assets/Sky.jpg')
+        imgPath: require(`@/assets/project_${this.project_id}.png`)
       }
-    }
+    },
 
   }
 
