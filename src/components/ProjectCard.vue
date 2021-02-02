@@ -18,13 +18,15 @@
 
         <div class="media">
 
-          <div class="media-left">
+          <!--           
+            <div class="media-left">
 
-            <figure class="image is-48x48">
-              <img src="@/assets/logo.png">
-            </figure>
+              <figure class="image is-48x48">
+                <img src="@/assets/logo.png">
+              </figure>
 
-          </div>
+            </div>
+          -->
 
           <div class="media-content">
             <p class="title is-4 no-padding">{{ title }}</p>
@@ -73,9 +75,9 @@
 
       status: String,
 
-      image: {
+      cardview: {
         type: String,
-        default: './static/u_const.png'
+        default: '@/assets/Sky.jpg'
       },
 
       stat_color: {

@@ -6,7 +6,7 @@
     "desc": "初めてHTMLとCSSで作ったWebページです。学習サイト『Progate』を参考にしました",
     "status": "done",
     "stat_color": "is-info",
-    "image":"static/project_1.png"
+    "cardview":"@/asset/project_1.png"
   },
 
   {
