@@ -7,8 +7,10 @@
       <div class="card-image">
 
         <figure class="image is-16by9">
-          <img src="@/static/project_6.png">
-        </figure>
+          <a :href="url">
+            <img v-bind:src="imgPath">
+          </a>
+        </figure>   
 
       </div>
 
@@ -38,7 +40,7 @@
 
         <div class="content">
 
-          <button class="button is-rounded is-primary">
+          <button v-bind:class="stat_color" class="button is-rounded">
 
             <span>{{ status }}</span>
 
@@ -71,8 +73,26 @@
 
       status: String,
 
+      image: {
+        type: String,
+        default: './static/u_const.png'
+      },
+
+      stat_color: {
+        type: String,
+        default: 'is-primary'
+      },
+
+
+      url: String,
+
     },
 
+    data(){
+      return {
+        imgPath: require('@/assets/Sky.jpg')
+      }
+    }
 
   }
 

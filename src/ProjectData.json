@@ -2,29 +2,38 @@
   {
     "project_id": "1",
     "title": "Chat noir",
+    "url":"https://ucntkhr.github.io/portfolio_01/",
     "desc": "初めてHTMLとCSSで作ったWebページです。学習サイト『Progate』を参考にしました",
-    "status": "done"
+    "status": "done",
+    "stat_color": "is-info",
+    "image":"static/project_1.png"
   },
 
   {
     "project_id": "2",
     "title": "Pattiserie Mon Chat",
+    "url":"https://ucntkhr.github.io/bootstrap_01/",
     "desc": "Bootstrapを学ぶ為に作成した洋菓子店Webサイト風のページです（もっと改良したい）",
-    "status": "done"
+    "status": "done",
+    "stat_color": "is-info"
   },
 
   {
     "project_id": "3",
-    "title": "Endless Asteroid",    
+    "title": "Endless Asteroid",
+    "url":"https://ucntkhr.github.io/dtins2dstg/",
     "desc": "学習サイト『ドットインストール』のUnity講座を参考に制作した、シンプルなミニゲームです",
-    "status": "done"
+    "status": "done",
+    "stat_color": "is-info"
   },
 
   {
     "project_id": "4",
     "title": "Todo Ninja",
+    "url":"https://musing-kirch-0c35b8.netlify.app/",
     "desc": "Vue.js2とVuetifyで、途中まで制作したTodoApp LikeのSPAです。DB管理にFirebaseを使用",
-    "status": "ongoing"
+    "status": "ongoing",
+    "stat_color": "is-danger"
   },
 
   {
@@ -37,7 +46,7 @@
   {
     "project_id": "6",
     "title": "And More",
-    "desc": "他にも、Web制作スキルの指標判断に適したポートフォリオなどを別途、追加で制作する予定です",
+    "desc": "他にも今後、Web制作スキルの指標に適したポートフォリオなどを追加で制作する予定です",
     "status": "plotting"
   }
 
