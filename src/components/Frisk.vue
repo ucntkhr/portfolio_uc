@@ -4,7 +4,7 @@
     <div class="hero-body">
       <div class="container has-text-centered">
         <h1 class="words title is-light">
-          【 <span class="fas fa-star-of-life"></span> ーーーーー YOU ARE TRUE PACIFIST ーーーーー <span class="fas fa-star-of-life"></span> 】
+          YOU ARE TRUE PACIFIST
         </h1>
         <p class="words subtitle">
           "SHARPENS YOU UP."
