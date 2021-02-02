@@ -2,7 +2,6 @@
   {
     "project_id": "1",
     "title": "Chat noir",
-    "image": "@/assets/first_practice.png",
     "desc": "初めてHTMLとCSSで作ったWebページです。学習サイト『Progate』を参考にしました",
     "status": "done"
   },
@@ -10,40 +9,35 @@
   {
     "project_id": "2",
     "title": "Pattiserie Mon Chat",
-    "image": "@/assets/bootstrap01.png",
     "desc": "Bootstrapを学ぶ為に作成した洋菓子店Webサイト風のページです（もっと改良したい）",
     "status": "done"
   },
 
   {
     "project_id": "3",
-    "title": "Endless Asteroid（仮）",
-    "image": "@/assets/dtins2DSTG.png",
+    "title": "Endless Asteroid",    
     "desc": "学習サイト『ドットインストール』のUnity講座を参考に制作した、シンプルなミニゲームです",
     "status": "done"
   },
 
   {
     "project_id": "4",
-    "title": "Todo Ninja（仮）",
-    "image": "@/assets/todoninja.png",
-    "desc": "Vue.js2とVuetifyで、途中まで制作したTodoアプリ的なSPAもどきです。Firebaseを利用しています",
+    "title": "Todo Ninja",
+    "desc": "Vue.js2とVuetifyで、途中まで制作したTodoApp LikeのSPAです。DB管理にFirebaseを使用",
     "status": "ongoing"
   },
 
   {
     "project_id": "5",
     "title": "Other Plans",
-    "image": "@/assets/deep_dev.png",
-    "desc": "幾つかのWebApp、またはGameのアイデアを現在構想中です",
+    "desc": "幾つかのWebアプリケーションや、オリジナルのゲーム作品のアイデアを現在構想しています",
     "status": "plotting"
   },
 
   {
     "project_id": "6",
     "title": "And More",
-    "image": "@/assets/sky.jpg",
-    "desc": "他にも、よりWeb制作スキルの指標として分かり易いポートフォリオなどを追加予定です",
+    "desc": "他にも、Web制作スキルの指標判断に適したポートフォリオなどを別途、追加で制作する予定です",
     "status": "plotting"
   }
 

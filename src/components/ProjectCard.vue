@@ -1,64 +1,58 @@
 <template>
 
-  <div class="container">
-    <div class="section">
-      <div id="app" class="row columns is-multiline">
-        <div class="column is-4">
-          <div class="card large">
 
-            <div class="card-image">
+  <div class="column is-4">
+    <div class="card large">
 
-              <figure class="image is-16by9">
+      <div class="card-image">
 
-                <img src="@/assets/kouji.png">
+        <figure class="image is-16by9">
+          <img src="@/static/project_6.png">
+        </figure>
 
-              </figure>
+      </div>
 
-            </div>
+      <div class="card-content">
 
-            <div class="card-content">
+        <div class="media">
 
-              <div class="media">
+          <div class="media-left">
 
-                <div class="media-left">
-
-                  <figure class="image is-48x48">
-                    <img src="@/assets/logo.png">
-                  </figure>
-
-                </div>
-
-                <div class="media-content">
-                  <p class="title is-4 no-padding">{{ title }}</p>
-                </div>
-
-              </div>
-
-              <div class="content">
-
-                {{ desc }}
-
-              </div>
-
-              <div class="content">
-
-                <button class="button is-rounded is-primary">
-
-                  <span>{{ status }}</span>
-
-                </button>
-
-              </div>
-
-
-
-            </div>
+            <figure class="image is-48x48">
+              <img src="@/assets/logo.png">
+            </figure>
 
           </div>
+
+          <div class="media-content">
+            <p class="title is-4 no-padding">{{ title }}</p>
+          </div>
+
         </div>
+
+        <div class="content">
+
+          {{ desc }}
+
+        </div>
+
+        <div class="content">
+
+          <button class="button is-rounded is-primary">
+
+            <span>{{ status }}</span>
+
+          </button>
+
+        </div>
+
+
+
       </div>
+
     </div>
   </div>
+
 
 </template>
 
