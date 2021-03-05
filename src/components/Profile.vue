@@ -5,14 +5,14 @@
 
 		<div class="intro column is-8 is-offset-2">
 			<h2 class="title">PROFILES</h2>
-			<p class="subtitle">Here are 3 Avaters of me.</p>
+			<p class="subtitle">Here are my <strong>"PROFILE"</strong>.</p>
 		</div>
 
 
 		<div class="columns features">
-			<div class="column is-4">
-				<div class="card is-shady">
 
+			<div class="column">
+				<div class="card is-shady">
 					<div class="card-image has-text-centered">
 						<img class="mt-5" src="@/assets/NEKO.png">
 
@@ -48,16 +48,14 @@
 								</a>
 							</p>
 
-							<p><a href="#">Learn more</a></p>
+							<p><button class="button">Learn more</button></p>
 						</div>
 					</div>
-
 				</div>
 			</div>
 
-			<div class="column is-4">
+			<div class="column is-4 hiding">
 				<div class="card is-shady">
-
 					<div class="card-image has-text-centered">
 						<img class="mt-5" src="@/assets/YGSKN.png">
 
@@ -95,13 +93,11 @@
 							<p><a href="#">Learn more</a></p>
 						</div>
 					</div>
-
 				</div>
 			</div>
 
-        <div class="column is-4">
-          <div class="card is-shady">
-
+			<div class="column is-4 hiding">
+				<div class="card is-shady">
 					<div class="card-image has-text-centered">
 						<img class="mt-5" src="@/assets/HUMAN.png">
 
@@ -140,13 +136,10 @@
 							<p><a href="#">Learn more</a></p>
 						</div>
 					</div>
-
-
-
 				</div>
 			</div>
-		</div>
 
+		</div>
 
 	</section>
 
@@ -161,6 +154,8 @@
 		props: {
 			msg: String
 		}
+
+
 	}
 
 </script>
@@ -169,7 +164,11 @@
 <style scoped>
 
 .title {
- margin-top: 10px
+	margin-top: 10px
+}
+
+.hiding {
+	display: none;
 }
 
 
