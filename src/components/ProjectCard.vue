@@ -114,6 +114,7 @@
 
 .title.no-padding {
   margin-bottom: 0 !important;
+  overflow: hidden;
 }
 
 .footer {

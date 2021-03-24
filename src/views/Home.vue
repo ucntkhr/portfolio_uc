@@ -27,26 +27,6 @@
       </div>
     </section>
 
-    <!-- 
-
-    <section class="sans-river hero is-bold is-medium">
-
-      <div class="hero-body">
-        <div class="container has-text-centered">
-          <h1 class="words hell-words title is-light">
-            【 <span class="fas fa-skull"></span> ーーーーー Sans River ーーーーー <span class="fas fa-burn"></span> 】
-          </h1>
-          <p class="hell-words subtitle">
-            "SHOULD BE BURNING IN HELL."
-          </p>
-
-        </div>
-      </div> 
-
-    </section>  
-
-    -->
-
     <Profiles id="Profile" />
 
     <section class="container">
@@ -66,10 +46,10 @@
         <p>【＊SPACE LITTLE SPACER CAME BACK＊】</p>
       </div>
     </section>
+  
+    <Appendix class="hiding"/>
 
-    <Appendix />
-
-    <section class="container">
+    <section class="container hiding">
       <div class="column m-5 cheep-invisi">
         <p>【＊SPACE, SPACER NEVER CHANGES＊】</p>
       </div>
@@ -98,21 +78,6 @@ import Projects from '@/components/Project.vue';
 import Skillset from '@/components/Skillset.vue';
 import Contact from '@/components/Contact.vue';
 
-/*
-import HUMAN from '@/assets/HUMAN.png';
-import NEKO from '@/assets/NEKO.png';
-import YGSKN from '@/assets/YGSKN.png';
-*/
-
-//import PNGElement from '@/components/PNGElement.vue'
-
-  /* 
-    import HUMAN from '@/assets/HUMAN.svg';
-    import NEKO from '@/assets/NEKO.svg';
-    import YGSKN from '@/assets/YGSKN.svg';
-  */
-
-
 export default {
   name: 'Home',
   components: {
@@ -121,17 +86,8 @@ export default {
     Projects,
     Skillset,
     Contact
+  },
 
-
-    //PNGElement
-   
-    /*     
-      HUMAN,
-      NEKO,
-      YGSKN,
-    */
-
-  }
 }
 </script>
 
@@ -259,6 +215,10 @@ export default {
 
   .card-image {
     margin-bottom: 15px;
+  }
+
+  .hiding {
+    display: none;
   }
 
 
