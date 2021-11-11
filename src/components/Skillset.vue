@@ -4,7 +4,7 @@
 
 		<div class="intro column is-8 is-offset-2">
 			<h2 class="title">SKILLSET</h2>
-			<p class="subtitle">Here are my special <strong>"PERKS"</strong>.</p>
+			<p class="subtitle">身につけたいもの</p>
 		</div>
 
 
@@ -63,42 +63,42 @@ export default {
 					{
 						name: 'JavaScript',
 						icon: 'fab fa-js-square',
-						desc: `フレームワークで扱うことが多いです。このポートフォリオではVue.jsを使用しています`
+						desc: `直で使うことはあまりないです`
 					},
 					{
 						name: 'Vue.js',
 						icon: 'devicons devicon-vuejs-plain',
-						desc: `Web制作に便利なフレームワークは積極的に活用していきたいと考えています`
+						desc: `便利です`
 					},
 					{
 						name: 'Ruby',
 						icon: 'devicons devicon-ruby-plain',
-						desc: `現在学習中：Ruby技術者認定試験の受験を検討しています（まずSilverを目標に）`
+						desc: `資格が取れる位になりたい`
 					},
 					{
 						name: 'Rails',
 						icon: 'devicons devicon-rails-plain',
-						desc: `Railsを使用したバックエンド実装についても少し過去に学習しています`
+						desc: `データベースとかについても少し過去に学習しました`
 					},
 					{
 						name: 'HTML',
 						icon: 'fab fa-html5',
-						desc: `最初期はHTML/CSSのみのシンプルなページを制作していました`
+						desc: `復習しないといけないと最近思っています`
 					},
 					{
 						name: 'CSS',
 						icon: 'fab fa-css3-alt',
-						desc: `このポートフォリオではBulmaというCSSフレームワークを使用しています`
+						desc: `色をつけたりするのが好き`
 					},
 					{
 						name: 'typescript',
 						icon: 'devicons devicon-typescript-plain',
-						desc: `今後学んでいきたいと考えている言語の一つです`
+						desc: `なんとなく勉強してみたい`
 					},
 					{
 						name: 'React',
 						icon: 'devicons devicon-react-plain',
-						desc: `iOS向けのアプリ制作にも挑戦したいと考えています`
+						desc: `アプリとかも作ってみたいです`
 					},
 				],
 
@@ -106,18 +106,18 @@ export default {
 					{
 						name: 'Photoshop',
 						icon: 'devicons devicon-photoshop-plain',
-						desc: `動画のサムネイル作成などに使用します（勿論Web制作にも使用しています）`
+						desc: `色々描いたり編集したりする`
 					},
 
 					{
 						name: 'AfterEffect',
 						icon: 'devicons devicon-aftereffects-plain',
-						desc: `現在学習中：動画のVFXやアニメーションの追加などに使用します`
+						desc: `一番学んでみたいAdobe製品 `
 					},
 					{
 						name: 'Premiere Pro',
 						icon: 'devicons devicon-premierepro-plain',
-						desc: `現在学習中：動画のトランジション（つなぎ）や書き出しなどの編集に使用します`
+						desc: `動画編集の一つくらい自力で出来るようになりたい`
 					},
 
 				],
@@ -126,17 +126,17 @@ export default {
 					{
 						name: 'Unity',
 						icon: 'fab fa-unity',
-						desc: `主にこちらを使用してゲーム制作に挑戦していきたいと考えています。リファレンスが豊富`
+						desc: `もっと詳しくなりたい。すぐVersionが上がるのが困る`
 					},
 					{
 						name: 'GameMaker Studio',
 						icon: 'fas fa-gamepad',
-						desc: `初めてサンプルを制作したゲームエンジンです。現在はGMS2を使用しています`
+						desc: `ライセンスを購入しているので活用したいです`
 					},
 					{
 						name: 'Godot Engine',
 						icon: 'fas fa-robot',
-						desc: `Pythonや、工夫次第でRustも使える軽量のエンジンとのことです（興味があります）`
+						desc: `PythonとかRustとかも使えるらしいとのこと`
 					}
 				]
 			}
