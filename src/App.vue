@@ -6,11 +6,6 @@
       <router-link to="/skillset">Skillset</router-link> | 
       <router-link to="/project">Project</router-link> | 
       <router-link to="/contact">Contact</router-link>
-
-      <br>
-
-      <router-link to="/frisk"><span class="fas fa-heart"></span></router-link>
-
     </div>
     <router-view/>
   </div>

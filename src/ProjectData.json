@@ -3,7 +3,7 @@
     "project_id": "1",
     "title": "Chat noir",
     "url":"https://ucntkhr.github.io/portfolio_01/",
-    "desc": "初めてHTMLとCSSで作ったWebページです。学習サイト『Progate』を参考にしました",
+    "desc": "『Progate』を参考にして、初めてHTMLとCSSで作ったもの",
     "status": "done",
     "stat_color": "is-info",
     "cardview":"@/asset/project_1.png"
@@ -13,16 +13,16 @@
     "project_id": "2",
     "title": "Pattiserie Mon Chat",
     "url":"https://ucntkhr.github.io/bootstrap_01/",
-    "desc": "Bootstrapを学ぶ為に作成した架空の洋菓子店Webページです（改良中）",
+    "desc": "Bootstrapを使って作成してみたもの",
     "status": "done",
     "stat_color": "is-info"
   },
 
   {
     "project_id": "3",
-    "title": "Endless Asteroid",
+    "title": "Asteroid",
     "url":"https://ucntkhr.github.io/dtins2dstg/",
-    "desc": "学習サイト『ドットインストール』のUnity講座を参考に制作した、シンプルなミニゲームです",
+    "desc": "『ドットインストール』のUnity講座を参考にして作ったもの",
     "status": "done",
     "stat_color": "is-info"
   },
@@ -31,22 +31,22 @@
     "project_id": "4",
     "title": "Todo Ninja",
     "url":"https://musing-kirch-0c35b8.netlify.app/",
-    "desc": "Vue.js2とVuetifyで、途中まで制作したTodoApp LikeのSPAです。DB管理にFirebaseを使用",
+    "desc": "Vue.js2とVuetifyで、途中まで作ったTodoアプリ風のもの",
     "status": "ongoing",
     "stat_color": "is-danger"
   },
 
   {
     "project_id": "5",
-    "title": "Other Plans",
-    "desc": "幾つかのWebアプリケーションや、オリジナルのゲーム作品のアイデアを現在構想しています",
+    "title": "Others",
+    "desc": "準備中",
     "status": "plotting"
   },
 
   {
     "project_id": "6",
     "title": "And More",
-    "desc": "他にも今後、Web制作スキルの指標に適したポートフォリオなどを追加で制作する予定です",
+    "desc": "色々考えています",
     "status": "plotting"
   }
 
