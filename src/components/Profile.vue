@@ -5,7 +5,7 @@
 
 		<div class="intro column is-8 is-offset-2">
 			<h2 class="title">PROFILES</h2>
-			<p class="subtitle">Here are 3 <strong>Avaters</strong> of me.</p>
+			<p class="subtitle">自己紹介</p>
 		</div>
 
 
@@ -31,8 +31,7 @@
 
 						<div class="content">
 							<h4>ucntkhr</h4>
-							<p> Webエンジニア/デザイナーを一時期志望していました。
-							<br>発達障害当事者（ADHD)</p>
+							<p> Webエンジニア/デザイナーを志望してました。</p>
 
 							<p class="is-align-center">
 								<a href="https://github.com/ucntkhr">
@@ -74,7 +73,7 @@
 					<div class="card-content">
 						<div class="content">
 							<h4>山羊魚</h4>
-							<p>ゲーム配信者になってみたいと思っていた時期もありました。</p>
+							<p>ゲーム配信者になりたい時期もありました。</p>
 							
 							<p class="is-align-center">
 								<a href="#">
@@ -113,7 +112,7 @@
 					<div class="card-content">
 						<div class="content">
 							<h4>Unomicha1</h4>
-							<p>カウンセリング治療を受けています。</p>
+							<p>現在はカウンセリング治療を受けています。</p>
 
 							<p class="is-align-center">
 								<a href="#">

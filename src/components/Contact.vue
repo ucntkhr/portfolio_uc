@@ -7,7 +7,7 @@
 		</div>
 
 		<div class="content colomn is-8">
-			<p>ご連絡の折は、ucntkhr.gftdwks[at]gmail.comまでお願いいたします。※[at]→@に置き換え</p>
+			<p>ご連絡の折は、ucntkhr.gftdwks[at]gmail.comまで ※[at]→@に置き換え</p>
 		</div>
 
 	</section>
