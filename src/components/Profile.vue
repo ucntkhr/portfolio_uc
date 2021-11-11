@@ -112,7 +112,7 @@
 					<div class="card-content">
 						<div class="content">
 							<h4>Unomicha1</h4>
-							<p>現在はカウンセリング治療を受けています。</p>
+							<p>現在、カウンセリング治療を受けています。</p>
 
 							<p class="is-align-center">
 								<a href="#">

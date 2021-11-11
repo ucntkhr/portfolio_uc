@@ -6,7 +6,7 @@
         <div class="container has-text-centered">
           <h1 class="words title is-light">Under Construction</h1>
           <p class="words subtitle">
-            ucntkhr's Portfolio ( Made with Vue.js / Bulma )
+            ucntkhr's Portfolio
           </p>
         </div>
       </div> 

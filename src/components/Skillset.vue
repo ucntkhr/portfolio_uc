@@ -126,7 +126,7 @@ export default {
 					{
 						name: 'Unity',
 						icon: 'fab fa-unity',
-						desc: `もっと詳しくなりたい。すぐVersionが上がるのが困る`
+						desc: `すぐVersionが上がるのが難点`
 					},
 					{
 						name: 'GameMaker Studio',

@@ -3,7 +3,7 @@
     "project_id": "1",
     "title": "Chat noir",
     "url":"https://ucntkhr.github.io/portfolio_01/",
-    "desc": "『Progate』を参考にして、初めてHTMLとCSSで作ったもの",
+    "desc": "『Progate』を参考に初めてHTMLとCSSで作成",
     "status": "done",
     "stat_color": "is-info",
     "cardview":"@/asset/project_1.png"
@@ -13,7 +13,7 @@
     "project_id": "2",
     "title": "Pattiserie Mon Chat",
     "url":"https://ucntkhr.github.io/bootstrap_01/",
-    "desc": "Bootstrapを使って作成してみたもの",
+    "desc": "Bootstrapを使って試作したもの",
     "status": "done",
     "stat_color": "is-info"
   },
@@ -22,7 +22,7 @@
     "project_id": "3",
     "title": "Asteroid",
     "url":"https://ucntkhr.github.io/dtins2dstg/",
-    "desc": "『ドットインストール』のUnity講座を参考にして作ったもの",
+    "desc": "『ドットインストール』のUnity講座を参考に作成",
     "status": "done",
     "stat_color": "is-info"
   },
@@ -31,7 +31,7 @@
     "project_id": "4",
     "title": "Todo Ninja",
     "url":"https://musing-kirch-0c35b8.netlify.app/",
-    "desc": "Vue.js2とVuetifyで、途中まで作ったTodoアプリ風のもの",
+    "desc": "Todoアプリ風の試作物(Vue.js2/Vuetify)",
     "status": "ongoing",
     "stat_color": "is-danger"
   },
